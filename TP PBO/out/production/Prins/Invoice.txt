@@ -1,0 +1,3 @@
+Total   = 3000.0
+Bayar   = 2.0
+Kembali = -2998.0
